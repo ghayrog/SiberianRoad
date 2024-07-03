@@ -1,0 +1,17 @@
+{
+    "name": "UnitPositions",
+    "rootNamespace": "UnitPositions",
+    "references": [
+        "GUID:4a425e8ca1ae69c419c4a101ae44eed5",
+        "GUID:e6dbc6ee33ea7e04fa00dc02734455fd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+    "name": "TinySaveLoaders",
+    "rootNamespace": "TinySaveLoaders",
+    "references": [
+        "GUID:4a425e8ca1ae69c419c4a101ae44eed5",
+        "GUID:e6dbc6ee33ea7e04fa00dc02734455fd",
+        "GUID:1a0f529a24db4ab4cae13edd0790276c",
+        "GUID:0d21f4373df594744bc33561e1d92bba",
+        "GUID:ea638e8a058b64340bd445ada4def3ce",
+        "GUID:222e06fb745f3734db99d45ef20048ef",
+        "GUID:6210441cbfba9c14292528a4e803af01"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

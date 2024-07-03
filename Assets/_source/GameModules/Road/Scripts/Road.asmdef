@@ -1,0 +1,18 @@
+{
+    "name": "Road",
+    "rootNamespace": "Road",
+    "references": [
+        "GUID:4a425e8ca1ae69c419c4a101ae44eed5",
+        "GUID:e6dbc6ee33ea7e04fa00dc02734455fd",
+        "GUID:0d21f4373df594744bc33561e1d92bba"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
